@@ -12,7 +12,7 @@ client_secrets = {
            "token_uri":"https://oauth2.googleapis.com/token",
            "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
            "client_secret":"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",
-           "redirect_uris":["http://localhost:8090/","http://127.0.0.1:5000","https://server-eta-smoky.vercel.app/"],
+           "redirect_uris":["http://localhost:8090/","http://127.0.0.1:5000","https://flask-feb7.vercel.app/"],
            "javascript_origins":["http://localhost:8090"]}}
 
 SCOPES = ['https://www.googleapis.com/auth/drive.file']
